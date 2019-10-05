@@ -32,7 +32,7 @@ int main()
 
         do
         {
-            printf("\tMENU: \n\n");
+            printf("    MENU: \n\n");
             printf(" 1. ALTA \n");
             printf(" 2. MODIFICAR \n");
             printf(" 3. BAJA \n");

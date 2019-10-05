@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1570238404 source:c:\users\user\desktop\trabajo práctico número 2\arrayemployees.c
+1570239644 source:c:\users\user\desktop\trabajo práctico número 2\arrayemployees.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"ArrayEmployees.h"
 
-1570238151 c:\users\user\desktop\trabajo práctico número 2\arrayemployees.h
+1570242504 c:\users\user\desktop\trabajo práctico número 2\arrayemployees.h
 
-1570236035 source:c:\users\user\desktop\trabajo práctico número 2\main.c
+1570240771 source:c:\users\user\desktop\trabajo práctico número 2\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
