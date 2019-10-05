@@ -5,6 +5,7 @@
 #define FREE 1
 #define OCCUPIED 0
 
+
 int initEmployees(Employee List[], int len)
 {
     int index;
