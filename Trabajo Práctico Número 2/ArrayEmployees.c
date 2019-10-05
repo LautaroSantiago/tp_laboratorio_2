@@ -223,7 +223,6 @@ int sortEmployees(Employee List[], int len, int order)
                 List[i] = List[j];
                 List[j] = aux;
             }
-
             if(order == UPP && strcmp(List[i].lastName, List[j].lastName) < 0)
             {
                 aux = List[i];
@@ -239,7 +238,6 @@ int sortEmployees(Employee List[], int len, int order)
                     List[j] = aux;
                 }
             }
-
             if(order == DOWN && strcmp(List[i].lastName, List[j].lastName) == 0)
             {
                 if(List[i].sector < List[j].sector)
